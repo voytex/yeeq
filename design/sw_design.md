@@ -56,4 +56,5 @@ h6:before {
 ## Low Level Requirements
 ### `refresh()`
 - Refreshes table of reachable bulbs
+![test](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/voytex/yeeq/refs/heads/main/design/uml/instance.puml)
 ### `
